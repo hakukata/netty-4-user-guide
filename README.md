@@ -1,5 +1,7 @@
 # Netty 4.x User Guide 中文翻译《Netty 4.x 用户指南》
 
+> 本开源书 forked from [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/netty-4-user-guide)，以便获得最新更新，谢谢！
+
 ![](netty_logo.jpg)
 
 Chinese translation of [Netty 4.x User Guide](http://netty.io/wiki/user-guide-for-4.x.html) . You can also see the demos of the guide [here](https://github.com/waylau/netty-4-user-guide-demos). There is a GitBook version of the book: <http://waylau.gitbooks.io/netty-4-user-guide/> or <https://waylau.com/netty-4-user-guide/>

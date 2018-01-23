@@ -2,6 +2,7 @@
 
 This is the summary of my book.
 
+* [Introduction](README.md)
 * Preface 前言
 	- [The Problem 问题](Preface/The Problem.md)
 	- [The Solution 解决](Preface/The Solution.md)
